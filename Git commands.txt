@@ -1,0 +1,17 @@
+// Commands to upload code on github
+
+git init
+git add .
+git status
+git commit -m "First commit"
+
+git remote add origin "repo-url"
+git push -u origin master
+
+
+
+
+Update:
+git add .
+git commit -m "Your commit message here"
+git push
