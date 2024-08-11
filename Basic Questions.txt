@@ -1,0 +1,54 @@
+C++ QUESTIONS
+
+- Reverse a String
+- Check if Number is Prime
+- Find Factorial of a Number
+- Fibonacci Series
+- Check if String is Palindrome
+- Sum of Digits
+- Swap Two Numbers Without Using a Temporary Variable
+- Find the Largest Element in an Array
+- Count the Number of Vowels in a String
+- Find the GCD of Two Numbers
+- Merge Two Sorted Arrays
+- Implement a Basic Calculator
+- Print a Pattern
+- Find the Second Largest Element in an Array
+- Remove Duplicates from an Array
+- Count the Frequency of Characters in a String
+- Check for Armstrong Number
+- Reverse an Array
+- Check if Two Strings are Rotations of Each Other
+- Sum of Two Matrices
+- Find the Length of the Longest Substring Without Repeating Characters
+- Matrix Transpose
+- Find the Missing Number in an Array
+- Check if a String Contains Only Digits
+- Check if a Year is a Leap Year
+- Find the Maximum Difference Between Two Elements
+- Check if an Array is Sorted
+- Implement Binary Search
+
+- Subarray with given sum
+- Count the triplets
+- Kadane’s Algorithm
+- Missing number in array
+- Merge two sorted arrays
+- Rearrange array alternatively
+- Number of pairs
+- Inversion of Array
+- Sort an array of 0s, 1s and 2s
+- Equilibrium point
+- Leaders in an array
+- Minimum Platforms
+- Reverse array in groups
+- K’th smallest element
+- Trapping Rain Water
+- Pythagorean Triplet
+- Chocolate Distribution Problem
+- Stock buy and sell
+- Element with left side smaller and right side greater
+- Convert array into Zig-Zag fashion
+- Last Index of 1
+- Spirally traversing a matrix
+- Largest Number formed from an Array
